@@ -10,7 +10,7 @@ registerComponent('material', { Button, TextField })
 
 const state = {
     data: {
-        input: 'hello'
+        input: ''
     }
 
 }
