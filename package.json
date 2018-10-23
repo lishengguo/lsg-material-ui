@@ -1,10 +1,10 @@
 {
   "isMakaApp": true,
   "name": "lsg-material-ui",
-  "description": "lsg-material-ui",
-  "version": "1.0.0",
+  "description": "the application for registering the material-ui component",
+  "version": "1.0.3",
   "license": "MIT",
-  "author": "",
+  "author": "lishengguo",
   "repository": {
     "type": "git",
     "url": "https://github.com/makajs/lsg-material-ui.git"
