@@ -7,12 +7,12 @@
   "author": "lishengguo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/makajs/lsg-material-ui.git"
+    "url": "https://github.com/lishengguo/lsg-material-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/makajs/lsg-material-ui/issues"
+    "url": "https://github.com/lishengguo/lsg-material-ui/issues"
   },
-  "homepage": "https://github.com/makajs/lsg-material-ui#readme",
+  "homepage": "https://github.com/lishengguo/lsg-material-ui#readme",
   "scripts": {
     "start": "maka start",
     "dev": "maka start --dev",
