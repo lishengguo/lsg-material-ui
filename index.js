@@ -1,16 +1,17 @@
 import pkgJson from './package.json'
 import { actionMixin, registerComponent } from 'maka'
 import './style.less'
-import Button from '@material-ui/core/Button';
-import TextField from '@material-ui/core/TextField';
+import * as material from '@material-ui/core/index'; 
 
 const name = pkgJson.name
 
-registerComponent('material', { Button, TextField })
+console.log(material)
+
+registerComponent('material', material)
 
 const state = {
     data: {
-        input: 'hello'
+        input: ''
     }
 
 }
